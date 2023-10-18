@@ -1,7 +1,7 @@
 # software-development
 
 
-### <div align="center">I'm Amir  Mohammad, a full-stack developer 👨‍💻 </div>  
+### <div align="left">I'm Amir  Mohammad, a full-stack developer 👨‍💻 </div>  
   
 
 - 🧑‍💻 I’m currently working to smart map company  
