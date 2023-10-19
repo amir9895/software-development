@@ -1,6 +1,7 @@
 # software-development
-<img src="https://avatars.githubusercontent.com/u/48969527?v=4" alt="Amir Mohammad Sanjari" style="margin-bottom: 5px;border-radius:100%" />
-###  div align="left">I'm Amir  Mohammad, a full-stack developer 👨‍💻 </div>  
+<img src="https://avatars.githubusercontent.com/u/48969527?v=4" alt="Amir Mohammad Sanjari" style="margin-bottom: 5px;border-radius:1000px" />
+
+### <div align="left">I'm Amir  Mohammad, a full-stack developer 👨‍💻 </div>  
   
 ## Hi Toseeh
 
@@ -11,8 +12,7 @@
   
 
 - 👨‍🎓 I’m currently studing on Mashhad IAU.
-I am currently studying in the field of software and 
-at the undergraduate level in this university.
+I am currently studying in Bachelor’s degree on the field of software in this university.
 I have completed my associate's degree 
 in the same university with a GPA of 17.61.
   
