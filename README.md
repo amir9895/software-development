@@ -3,6 +3,7 @@
 
 ### <div align="left">I'm Amir  Mohammad, a full-stack developer 👨‍💻 </div>  
   
+##Hi Toseeh
 
 - 🧑‍💻 I’m currently working to smart map company  
   
@@ -10,7 +11,11 @@
 - 🔭 you can see my resume on [Github](https://github.com/amir9895)  
   
 
-- 👨‍🎓 I’m currently studing on Mashhad IAU  
+- 👨‍🎓 I’m currently studing on Mashhad IAU.
+I am currently studying in the field of software and 
+at the undergraduate level in this university.
+I have completed my associate's degree 
+in the same university with a GPA of 17.61.
   
 
 <br/>  
