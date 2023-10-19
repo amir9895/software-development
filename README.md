@@ -1,5 +1,5 @@
 # software-development
-<img src="https://media.licdn.com/dms/image/D4E03AQHuY64Rc4f_tg/profile-displayphoto-shrink_800_800/0/1690636936142?e=2147483647&v=beta&t=PJC-gmJomF6F7bzG6BdbNaGNEgmR3lEiVBS1fd1SBH" alt="Amir Mohammad Sanjari" style="margin-bottom: 5px;border-radius:100%" />
+<img src="https://avatars.githubusercontent.com/u/48969527?v=4" alt="Amir Mohammad Sanjari" style="margin-bottom: 5px;border-radius:100%" />
 ###  div align="left">I'm Amir  Mohammad, a full-stack developer 👨‍💻 </div>  
   
 ## Hi Toseeh
